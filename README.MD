@@ -1,0 +1,4 @@
+# My own Asynchronous Event Loop
+At a job fair, a python engineer mentioned to me that she got a better handle on how single threaded concurrency worked by writing her own event loop using Python generators.  So I will try the same.
+
+It's also my first time trying jupyter/iPython notebooks beyond fooling around with the "try iPy/Jupyter/etc" page on iPy's website. I see people with data science backgrounds using it, and while I love writing code in Vim, the responsiveness of it looks so cool. And I don't want a bunch of glitchy plugins to achieve the same level of autocomplete/intermediate results in Vim.
